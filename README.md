@@ -1,5 +1,7 @@
 # JOURNEY-TO-THE-WEST
-THE JOURNEY TO THE WEST REVISED FROM OREGON
+Shuang Cai
+2/17/21
+THE JOURNEY TO THE WEST REVISED FROM OREGON 1978
 
 The Journey to the West BASIC game is a hack version of the well-known Oregon Trail' 
 as Printed in the May/June 1978 Edition of Creative Computing Magazine.
